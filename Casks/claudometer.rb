@@ -1,6 +1,6 @@
 cask "claudometer" do
-  version "0.4.1"
-  sha256 "c58e5004257fd0ae2f910414fd8d4ca6220180b06aa2a8b48b6a8c8a623371d9"
+  version "0.4.2"
+  sha256 "7b4281a9a3e8686c4073b26481516ff22953dabea3dbea7f187c5aecf1294706"
 
   url "https://github.com/Faithful-developer/claudometer/releases/download/v#{version}/Claudometer-#{version}.dmg"
   name "Claudometer"
